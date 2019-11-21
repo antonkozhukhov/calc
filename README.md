@@ -1,1 +1,1 @@
-# antonkozhukhov.github.io/calc
+# http://antonkozhukhov.github.io/calc
