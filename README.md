@@ -1,1 +1,1 @@
-# calc.github.io
+# antonkozhukhov.github.io/calc
